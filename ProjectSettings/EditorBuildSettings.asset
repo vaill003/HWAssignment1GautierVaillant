@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: c26dc95ce0ab6804c8e97925d5b91aea
+  - enabled: 1
+    path: Assets/Scenes/RollABall.unity
+    guid: c6f11f77d27f5d64bafc47b4ea4db169
+  - enabled: 1
+    path: Assets/Scenes/MyGame.unity
+    guid: a9ec38d78fd9e414ab4a5f299eb58712
+  - enabled: 1
+    path: Assets/Scenes/ReadMe.unity
+    guid: 4ed92527af38ccd46b59f34401f2f8d4
